@@ -10,7 +10,7 @@ The implementation of HFDecomposer can be found at the folder `./source_code`.
 ## Dataset
 `./dataset` contains the dataset used in our paper.
 - File `filtered_data.csv` is a summary for the ground_truth.
-- Folder `header_files` contains the header files before refactoring.
+- Folder `header_files` contains the original header file and the sub-header files that were refactored by the developers for each project.
 - Folder `openssl_7436` is an example project. The decomposition suggestion for the header file `include/openssl/modes.h` is shown in `./source_code/example.ipynb`.
       
 ## Results
